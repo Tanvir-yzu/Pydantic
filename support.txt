@@ -1,0 +1,9 @@
+python -m venv myenv
+
+myenv\Scripts\activate
+
+pip install icecream
+
+pip install pydantic
+
+pip install pydantic-settings
