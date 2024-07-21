@@ -33,15 +33,12 @@ This project is a Python application demonstrating how to use Pydantic for data 
 
      ```sh
      python -m venv myenv
+     ```
+     ```sh
      myenv\Scripts\activate
      ```
 
-   - **On macOS and Linux:**
-
-     ```sh
-     python3 -m venv myenv
-     source myenv/bin/activate
-     ```
+  
 
 3. **Install the required dependencies:**
 
@@ -127,7 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or inquiries, you can contact me at [your.email@example.com](mailto:2020tanvir@gmial.com).
+For any questions or inquiries, you can contact me at [2020tanvir1971@gmail.com](mailto:2020tanvir@gmial.com).
 ```
 
 ### Notes:

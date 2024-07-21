@@ -9,3 +9,5 @@ pip install icecream
 pip install pydantic
 
 pip install pydantic-settings
+
+pip freeze > requirements.txt
