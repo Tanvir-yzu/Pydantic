@@ -43,7 +43,7 @@ This project is a Python application demonstrating how to use Pydantic for data 
 3. **Install the required dependencies:**
 
    ```sh
-   pip install -r requirements.txt
+   pip freeze > requirements.txt
    ```
 
    If `requirements.txt` does not exist, you can manually install the required packages:
@@ -127,8 +127,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or inquiries, you can contact me at [2020tanvir1971@gmail.com](mailto:2020tanvir@gmial.com).
 ```
 
-### Notes:
-
-- **Replace placeholders**: Substitute `yourusername`, `pydantic-data-validation-example`, and `your.email@example.com` with your actual GitHub username, repository name, and contact email.
-- **Add LICENSE file**: Make sure your project has a LICENSE file in the root directory. If you use a different license, update the license section accordingly.
-- **Customize sections**: If there are other important details about your project, such as advanced usage instructions or known issues, be sure to include them.
