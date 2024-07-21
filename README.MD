@@ -23,8 +23,8 @@ This project is a Python application demonstrating how to use Pydantic for data 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/pydantic-data-validation-example.git
-   cd pydantic-data-validation-example
+   https://github.com/Tanvir-yzu/Pydantic.git
+   cd main.py
    ```
 
 2. **Create and activate a virtual environment:**
