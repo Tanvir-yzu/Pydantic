@@ -125,5 +125,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or inquiries, you can contact me at [2020tanvir1971@gmail.com](mailto:2020tanvir@gmial.com).
-```
 
